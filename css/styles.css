@@ -1,0 +1,29 @@
+body {
+  background-color: #f8f0db;
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  width: 700px;
+  height: 554px;
+  margin: 0 auto;
+}
+
+.autumn {
+  position: absolute;
+  top: 5%;
+  left: 0;
+}
+
+.bunny {
+  position: absolute;
+  top: 23%;
+  left: 41%;
+}
+
+.bird {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+}
